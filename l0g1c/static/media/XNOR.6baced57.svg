@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by sK1 2.0rc5 (https://sk1project.net/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="144.0px" width="260.0px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" id="4c3717b2-6949-11ea-99fa-6045cb6190ff">
+	<rect fill="#fff" width="100%" height="100%"/>
+	<path style="stroke-miterlimit:4.0;stroke:#000000;stroke-width:4.8556;stroke-linecap:round;fill:none;" d="M 4.6918,40.0809 L 96.1391,40.0809" />
+	<path style="stroke-miterlimit:4.0;stroke:#000000;stroke-width:4.8556;stroke-linecap:round;fill:none;" d="M 4.6918,103.2038 L 96.1391,103.2038" />
+	<path style="stroke-miterlimit:4.0;stroke:#000000;stroke-width:4.8556;stroke-linecap:round;fill:none;" d="M 163.7743,71.6424 L 255.2217,71.6424" />
+	<path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-miterlimit:4.0;stroke-width:4.8556;fill:#ffffff;" d="M 56.2209,135.7769 C 56.1197,135.7813 86.5223,129.7594 86.5223,71.6423 86.5223,12.9532 56.2186,7.5076 56.2209,7.5078 105.1713,13.3864 137.0514,5.0612 170.741,71.6424 145.6205,130.5134 112.6759,133.3078 56.2209,135.7769 Z" />
+	<path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-miterlimit:4.0;stroke-width:4.8556;fill:#ffffff;" d="M 203.8651,71.6424 C 203.8651,80.6479 196.5619,87.9512 187.5563,87.9512 178.5507,87.9512 171.2475,80.6479 171.2475,71.6424 171.2475,62.6368 178.5507,55.3335 187.5563,55.3335 196.5619,55.3335 203.8651,62.6368 203.8651,71.6424 Z" />
+	<path style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:4.0;stroke-width:4.8556;fill:none;" d="M 26.1326,134.2315 C 26.0218,134.2358 59.3225,128.359 59.3225,71.6424 59.3225,14.3674 26.1301,9.053 26.1326,9.0532" />
+</svg>
